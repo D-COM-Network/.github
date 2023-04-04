@@ -2,7 +2,7 @@
 
 This was jointly develop by the Construction Innovation Hub and the DCOM Network as part of the Digitising Construction Regulations Project.
 
-<!--
+
 
 ![image](https://user-images.githubusercontent.com/26248350/229774409-e1606929-21ba-4471-bc33-cde8b57df9ec.png)
 
@@ -16,15 +16,6 @@ This was jointly develop by the Construction Innovation Hub and the DCOM Network
 
 ![image](https://user-images.githubusercontent.com/26248350/229774508-49324388-95ec-4732-bdd1-6743e90ff712.png)
 
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 
 
 It contains acknowledgement that it is created by DCOM and BRE as the main authors on behalf of the CIH, which is funded by UK Research and Innovation through the Industrial Strategy Challenge Fund (same for the pending research paper),
