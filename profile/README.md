@@ -1,21 +1,11 @@
 ## These repositories contain the source code of the DCOM Digital Compliance Ecosystem.
 
-This was jointly develop by the Construction Innovation Hub and the DCOM Network as part of the Digitising Construction Regulations Project.
+This was jointly developed by the Construction Innovation Hub and the DCOM Network as part of the Digitising Construction Regulations Project.
 
 
+![Untitled-Diagram-e1607078804654 (1)](https://user-images.githubusercontent.com/26248350/229782124-e0b8523e-1455-49a7-97e2-9c91979875a6.png)
 
-![image](https://user-images.githubusercontent.com/26248350/229774409-e1606929-21ba-4471-bc33-cde8b57df9ec.png)
-
-
-![image](https://user-images.githubusercontent.com/26248350/229774475-b6550848-edd5-4541-8397-f4ef7f8e3b87.png)
-
-
-
-![image](https://user-images.githubusercontent.com/26248350/229774492-2b5e0107-4ffc-4706-b551-4a69d155367e.png)
-
-
-![image](https://user-images.githubusercontent.com/26248350/229774508-49324388-95ec-4732-bdd1-6743e90ff712.png)
-
+![CIH-ISCF-UKRI_LogoLockup_A4_RGB_CIH-ISCF-UKRI_LogoLockup_Colour](https://user-images.githubusercontent.com/26248350/229782136-efa435c5-e24e-4551-a328-7f5721b48ab1.png)
 
 
 It contains acknowledgement that it is created by DCOM and BRE as the main authors on behalf of the CIH, which is funded by UK Research and Innovation through the Industrial Strategy Challenge Fund (same for the pending research paper),
