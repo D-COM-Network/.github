@@ -1,16 +1,25 @@
 ## These repositories contain the source code of the DCOM Digital Compliance Ecosystem.
 
-This was jointly developed by the Construction Innovation Hub and the DCOM Network as part of the Digitising Construction Regulations Project.
+This was jointly developed by the [DCOM Network](https://www.dcom.org.uk/) and [BRE]() on behalf of the [Construction Innovation Hub]() as part of the Digitising Construction Regulations Project. More information about this project can be found [here](https://www.dcom.org.uk/).
+
+This work was funded by UK Research and Innovation through the Industrial Strategy Challenge Fund.
+
+![Logos](https://user-images.githubusercontent.com/26248350/229783075-f9dde44d-f125-4dc7-87e4-b63656cc8148.png)
 
 
-![Untitled-Diagram-e1607078804654 (1)](https://user-images.githubusercontent.com/26248350/229782124-e0b8523e-1455-49a7-97e2-9c91979875a6.png)
+The Project partners were:
+-BRE
+-Cardiff University
+-Solibri UK
+-AEC3 UK
+-Innovation Factory.
+
+![Logos2](https://user-images.githubusercontent.com/26248350/229782124-e0b8523e-1455-49a7-97e2-9c91979875a6.png)
+
+*This work is made available for research purposes only. If you have interest in commercial exploitation please contact [marketing@the-mtc.org](mailto:marketing@the-mtc.org)*
 
 
-![CIH-ISCF-UKRI_LogoLockup_A4_RGB_CIH-ISCF-UKRI_LogoLockup_Colour](https://user-images.githubusercontent.com/26248350/229783075-f9dde44d-f125-4dc7-87e4-b63656cc8148.png)
 
-It contains acknowledgement that it is created by DCOM and BRE as the main authors on behalf of the CIH, which is funded by UK Research and Innovation through the Industrial Strategy Challenge Fund (same for the pending research paper),
-the work is made available for research purposes only,
-a no-responsibility disclaimer statement indicates we are not responsible for damages that may result from the use of the work, and we must be notified of any potential commercial activity that would involve the code, and
-A link is provided to CIH so we can be included on the CIH website.
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
-marketing@the-mtc.org
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
