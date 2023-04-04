@@ -7,11 +7,13 @@ This work was funded by UK Research and Innovation through the Industrial Strate
 ![Logos](https://user-images.githubusercontent.com/26248350/229783075-f9dde44d-f125-4dc7-87e4-b63656cc8148.png)
 
 The project partners were:
--BRE
--Cardiff University
--Solibri UK
--AEC3 UK
--Innovation Factory.
+1. BRE
+2. Cardiff University
+3. Solibri UK
+4. AEC3 UK
+5. Innovation Factory.
+
+The documentation for the project source code can be found [here]()
 
 ![Logos2](https://user-images.githubusercontent.com/26248350/229782124-e0b8523e-1455-49a7-97e2-9c91979875a6.png)
 
