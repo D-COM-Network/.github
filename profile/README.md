@@ -1,6 +1,6 @@
 ## These repositories contain the source code of the DCOM Digital Compliance Ecosystem.
 
-### The documentation for the project source code can be found [here]()
+### The documentation for the project source code can be found [here](https://d-com-network.github.io/DCOMDocumentation/)
 
 This was jointly developed by the [DCOM Network](https://www.dcom.org.uk/) and [BRE](https://bregroup.com/) on behalf of the [Construction Innovation Hub](https://constructioninnovationhub.org.uk/). This was done as part of the Digitising Construction Regulations Project. More information about this project can be found [here](https://www.dcom.org.uk/).
 
