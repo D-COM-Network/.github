@@ -15,7 +15,7 @@ The project partners were:
 4. AEC3 UK
 5. Innovation Factory.
 
-<center><img src ="https://user-images.githubusercontent.com/26248350/230086215-8f415342-05b7-47fa-b2bd-fc5794e9cf60.png" width=50/></center>
+<img src ="https://user-images.githubusercontent.com/26248350/230086215-8f415342-05b7-47fa-b2bd-fc5794e9cf60.png" width=75/>
 
 ![Logos2](https://user-images.githubusercontent.com/26248350/229782124-e0b8523e-1455-49a7-97e2-9c91979875a6.png)
 
