@@ -15,6 +15,8 @@ The project partners were:
 4. AEC3 UK
 5. Innovation Factory.
 
+![image](https://user-images.githubusercontent.com/26248350/230086215-8f415342-05b7-47fa-b2bd-fc5794e9cf60.png)
+
 ![Logos2](https://user-images.githubusercontent.com/26248350/229782124-e0b8523e-1455-49a7-97e2-9c91979875a6.png)
 
 **This work is made available for research purposes only. If you have interest in commercial exploitation please contact [marketing@the-mtc.org](mailto:marketing@the-mtc.org)**
