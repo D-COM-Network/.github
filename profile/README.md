@@ -6,7 +6,8 @@ This was jointly developed by the [DCOM Network](https://www.dcom.org.uk/) and [
 
 This work was funded by UK Research and Innovation through the Industrial Strategy Challenge Fund.
 
-![Logos](https://user-images.githubusercontent.com/26248350/229783075-f9dde44d-f125-4dc7-87e4-b63656cc8148.png)
+![CIH Legacy logo 28](https://user-images.githubusercontent.com/26248350/237033070-04c931a1-8b39-42f8-8e36-c3120465bd6a.png)
+
 
 The project partners were:
 1. BRE
